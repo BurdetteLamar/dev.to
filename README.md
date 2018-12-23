@@ -1,4 +1,4 @@
-<!-- >>>>>> BEGIN GENERATED FILE (include): SOURCE README.template.md -->
+<!-- >>>>>> BEGIN GENERATED FILE (include): SOURCE markdown/README.template.md -->
 <div align="center">
   <br>
   <img
@@ -50,7 +50,7 @@ Welcome to the [dev.to](https://dev.to) codebase. We are so excited to have you.
     - [Clean code with tests](#clean-code-with-tests)
     - [Create a pull request](#create-a-pull-request)
   - [How to get help](#how-to-get-help)
-  - [OSS Help/Discussion Thread](#oss-help-discussion-thread)
+  - [OSS Help/Discussion Thread](#oss-helpdiscussion-thread)
   - [The bottom line](#the-bottom-line)
 - [Codebase](#codebase)
   - [The stack](#the-stack)
@@ -268,4 +268,4 @@ Any questions, please refer to our [license FAQ](http://docs.dev.to/license-faq/
   <br/>
   <strong>Happy Coding</strong> ❤️
 </p>
-<!-- <<<<<< END GENERATED FILE (include): SOURCE README.template.md -->
+<!-- <<<<<< END GENERATED FILE (include): SOURCE markdown/README.template.md -->
