@@ -40,51 +40,7 @@ Welcome to the [dev.to](https://dev.to) codebase. We are so excited to have you.
 
 [dev.to](https://dev.to) (or just DEV) is a platform where software developers write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members. The ecosystem spans from beginner to advanced developers, and all are welcome to find their place within our community. ❤️
 
-## Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Contributing](#contributing)
-  - [Where to contribute](#where-to-contribute)
-  - [How to contribute](#how-to-contribute)
-- [Contribution guideline](#contribution-guideline)
-  - [Create an issue](#create-an-issue)
-    - [Clean code with tests](#clean-code-with-tests)
-    - [Create a pull request](#create-a-pull-request)
-  - [How to get help](#how-to-get-help)
-  - [👉 [OSS Help/Discussion Thread](https://dev.to/devteam/devto-open-source-helpdiscussion-thread-v0-1l45) 👈](#-oss-help-discussion-threadhttps-devto-devteam-devto-open-source-helpdiscussion-thread-v0-1l45-)
-  - [The bottom line](#the-bottom-line)
-- [Codebase](#codebase)
-  - [The stack](#the-stack)
-  - [Engineering standards](#engineering-standards)
-    - [Style Guide](#style-guide)
-    - [Husky hooks](#husky-hooks)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Standard Installation](#standard-installation)
-  - [Docker Installation (BETA)](#docker-installation-beta)
-    - [Starting the application](#starting-the-application)
-    - [Suggested Workflow](#suggested-workflow)
-- [Additional docs](#additional-docs)
-- [Product Roadmap](#product-roadmap)
-- [Core team](#core-team)
-- [License](#license)
-
-## Table of Contents
-
-- [Contributing](#contributing)
-- [Codebase](#codebase)
-  - [The stack](#the-stack)
-  - [Engineering standards](#engineering-standards)
-    - [Style guide](#style-guide)
-    - [Husky hooks](#husky-hooks)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Starting the application](#starting-the-application)
-  - [Suggested Workflow](#suggested-workflow)
-- [Additional docs](#additional-docs)
-- [Product Roadmap](#product-roadmap)
-- [Core Team Members](#core-team)
-- [License](#license)
+@[:page_toc](## Table of Contents)
 
 ## Contributing
 
@@ -138,7 +94,9 @@ _Please note: all commits in a pull request will be squashed when merged, but wh
 
 Whether you are stuck with feature implementation, first-time setup, or you just want to tell us something could be done better, check out our [OSS thread](https://dev.to/devteam/devto-open-source-helpdiscussion-thread-v0-1l45) or create an issue. You can also mention any [core team member](#core-team) in an issue and we'll respond as soon as possible.
 
-### 👉 [OSS Help/Discussion Thread](https://dev.to/devteam/devto-open-source-helpdiscussion-thread-v0-1l45) 👈
+### OSS Help/Discussion Thread
+
+- 👉 [OSS Help/Discussion Thread](https://dev.to/devteam/devto-open-source-helpdiscussion-thread-v0-1l45) 👈
 
 ### The bottom line
 
